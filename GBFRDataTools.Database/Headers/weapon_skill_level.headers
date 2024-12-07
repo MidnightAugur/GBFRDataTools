@@ -1,4 +1,3 @@
-add_column|Awakened|int
 add_column|SkillLevel1|int
 add_column|SkillLevel2|int
 add_column|SkillLevel3|int
@@ -9,4 +8,5 @@ add_column|SkillLevel7|int
 add_column|SkillLevel8|int
 add_column|SkillLevel9|int
 add_column|SkillLevel10|int
+add_column|SkillLevel11|int
 add_column|Key|hash_string
